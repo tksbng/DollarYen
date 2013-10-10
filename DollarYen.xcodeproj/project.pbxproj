@@ -388,6 +388,7 @@
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "DollarYen/DollarYen-Prefix.pch";
 				INFOPLIST_FILE = "DollarYen/DollarYen-Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 7.0;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				WRAPPER_EXTENSION = app;
 			};
@@ -399,6 +400,7 @@
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "DollarYen/DollarYen-Prefix.pch";
 				INFOPLIST_FILE = "DollarYen/DollarYen-Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 7.0;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				WRAPPER_EXTENSION = app;
 			};
@@ -457,6 +459,7 @@
 				FF911EFA179D6B1D00D5DFCB /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		FF911EFB179D6B1D00D5DFCB /* Build configuration list for PBXNativeTarget "DollarYenTests" */ = {
 			isa = XCConfigurationList;
@@ -465,6 +468,7 @@
 				FF911EFD179D6B1D00D5DFCB /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
